@@ -1,7 +1,7 @@
 class Main {
   public static void main(String[] args) {
 // if, else, else if, switch
-    int count =2;
+    int count =4;
 
      switch(count){
     case 1:
